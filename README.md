@@ -1,5 +1,5 @@
 # forbiddenisland-master
- Game Forbidden Island 
+ Game Forbidden Island  Project Made in Java in 2021 First Experience with OOP
 
  ![image](https://github.com/user-attachments/assets/3b81bcc4-bc98-4cdd-8fad-69dbda1979e3)
 
